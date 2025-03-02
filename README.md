@@ -1,5 +1,5 @@
 # Titanic Survival Analysis using Python  
-*Titanic dataset analysis to uncover survival patterns based on class, gender, age, and other factors.*  
+Titanic dataset analysis to uncover survival patterns based on class, gender, age, and other factors.
 
 ---
 
